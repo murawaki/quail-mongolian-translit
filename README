@@ -1,0 +1,8 @@
+Some quail-based input methods for Emacs
+
+* mongolian-translit (Cyrillic Mongolian in a Latin key layout)
+* manju-translit (Mè´”llendorff transliteration system)
+* mongolian-latin-translit (a popular Latin transliteration for Cyrillic Mongolian)
+
+This package is based on Anton Zinoviev's patch:
+http://lists.gnu.org/archive/html/emacs-devel/2003-09/msg00457.html
